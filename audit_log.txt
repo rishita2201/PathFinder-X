@@ -1,0 +1,90 @@
+2026-03-03 09:33:16.368674 : Career=Data Scientist, Employability=5.0
+2026-03-03 10:13:57.228891 | python, machine learning, sql | Data Scientist
+2026-03-03 11:04:40.272640 |  profile summary
+achievementseducationr. rishita bachelor of technology 
+cse artificial intelligence and machine learning 
+motivated b.tech computer science student specializing in artificial intelligence and machine learning, with
+hands-on experience in python, c, c++, java, web programming, and database-driven projects. possesses
+strong leadership skills and a solid problem-solving mindset, and is seeking an entry-level role to apply
+technical knowledge and contribute to building reliable and secure software solutions.
+bachelor of technology cse, vit university chennai
+higher secondary certificate, psbb senior secondary school chennai2 0 2 4 - 2 0 2 8
+2 0 0 9 - 2 0 2 4rishitasrisrimal@gmail.com +91 6380783243 chennai, india
+linkedin.com/in/rishita-r-257506335 github.com/rishita2201 leetcode.com/u/rishitar/
+soft skill
+attention to detail time management  team coordination  problem-solving mindset  
+languages   
+english hindi tamil germandata structures and algorithms 
+programming languages: python, c, c++, java
+web technologies: html, css, javascript
+databases: mysql, oracle 
+tools & platforms: git, github, linux, tkinter
+ai/ml (foundational): machine learning basics (supervised – learning)skills
+clubs & chapters
+member, business strategy, research & development, and client partnerships & sponsorships – 180
+degrees consulting, vit chennai
+frontend development team member – nexus, vit chennai
+member, school of computer science magazine team – vit chennai
+programme representative, cse cyber security – vit chennai
+cultural secretary – psbb senior secondary school
+director, interact club, rotary psbb senior secondary school
+team lead, reverberations – psbb senior secondary school culturals
+academic achievements
+branch topper with a cgpa of 9.58 (year 1)
+recipient of multiple scholarships, cash awards, proficiency prizes, and a rolling trophy for academic
+excellence
+secured 97% in class xii and 96.8% in class x (cbse boards)
+nptel certification in wildlife ecology – scored 100.0
+projects & competitions
+campus life manager (ongoing): centralised application for managing student campus activities at vit
+chennai
+secure mail analyser: python-based system for detecting spam and fake emails using heuristic techniques
+rootkit detection system: linux-based os integrity analysis using security audit tools
+student attendance management system: python and mysql application for attendance management
+baby cry monitoring system: iot-based system using esp32 with temperature and humidity monitoring
+winner – 1st place, codeathon organised by team neo
+participated in strategy storm, heatcode, codeforces, sih, editn | Data Scientist
+2026-03-03 11:15:45.517029 |  profile summary
+achievementseducationr. rishita bachelor of technology 
+cse artificial intelligence and machine learning 
+motivated b.tech computer science student specializing in artificial intelligence and machine learning, with
+hands-on experience in python, c, c++, java, web programming, and database-driven projects. possesses
+strong leadership skills and a solid problem-solving mindset, and is seeking an entry-level role to apply
+technical knowledge and contribute to building reliable and secure software solutions.
+bachelor of technology cse, vit university chennai
+higher secondary certificate, psbb senior secondary school chennai2 0 2 4 - 2 0 2 8
+2 0 0 9 - 2 0 2 4rishitasrisrimal@gmail.com +91 6380783243 chennai, india
+linkedin.com/in/rishita-r-257506335 github.com/rishita2201 leetcode.com/u/rishitar/
+soft skill
+attention to detail time management  team coordination  problem-solving mindset  
+languages   
+english hindi tamil germandata structures and algorithms 
+programming languages: python, c, c++, java
+web technologies: html, css, javascript
+databases: mysql, oracle 
+tools & platforms: git, github, linux, tkinter
+ai/ml (foundational): machine learning basics (supervised – learning)skills
+clubs & chapters
+member, business strategy, research & development, and client partnerships & sponsorships – 180
+degrees consulting, vit chennai
+frontend development team member – nexus, vit chennai
+member, school of computer science magazine team – vit chennai
+programme representative, cse cyber security – vit chennai
+cultural secretary – psbb senior secondary school
+director, interact club, rotary psbb senior secondary school
+team lead, reverberations – psbb senior secondary school culturals
+academic achievements
+branch topper with a cgpa of 9.58 (year 1)
+recipient of multiple scholarships, cash awards, proficiency prizes, and a rolling trophy for academic
+excellence
+secured 97% in class xii and 96.8% in class x (cbse boards)
+nptel certification in wildlife ecology – scored 100.0
+projects & competitions
+campus life manager (ongoing): centralised application for managing student campus activities at vit
+chennai
+secure mail analyser: python-based system for detecting spam and fake emails using heuristic techniques
+rootkit detection system: linux-based os integrity analysis using security audit tools
+student attendance management system: python and mysql application for attendance management
+baby cry monitoring system: iot-based system using esp32 with temperature and humidity monitoring
+winner – 1st place, codeathon organised by team neo
+participated in strategy storm, heatcode, codeforces, sih, editn | Data Scientist

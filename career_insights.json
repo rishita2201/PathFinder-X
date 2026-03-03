@@ -1,0 +1,9 @@
+{
+  "Data Scientist": {"salary": "$110,000", "growth": "22%"},
+  "AI Engineer": {"salary": "$130,000", "growth": "28%"},
+  "Web Developer": {"salary": "$85,000", "growth": "15%"},
+  "Cloud Engineer": {"salary": "$120,000", "growth": "20%"},
+  "Cybersecurity Analyst": {"salary": "$105,000", "growth": "25%"},
+  "Software Developer": {"salary": "$100,000", "growth": "18%"},
+  "DevOps Engineer": {"salary": "$115,000", "growth": "21%"}
+}
