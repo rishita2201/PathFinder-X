@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PathFinder-X</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="topbar">
+<h1>PathFinder-X 🚀</h1>
+<div>
+<button onclick="toggleTheme()">🌙/☀</button>
+<a href="/logout"><button>Logout</button></a>
+</div>
+</div>
+
+<div class="container">
+<form id="analyzeForm" enctype="multipart/form-data">
+<input type="text" name="skills" placeholder="Enter your skills (optional if uploading resume)">
+<input type="file" name="resume">
+<button type="submit">Analyze Profile</button>
+</form>
+
+<div id="results"></div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
